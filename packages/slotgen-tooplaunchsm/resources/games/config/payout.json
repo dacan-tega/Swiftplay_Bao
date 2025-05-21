@@ -1,0 +1,37 @@
+[
+    {
+        "step": 1,
+        "multiply": 1.80,
+        "percent": "60",
+        "name": "1",
+        "pay": "1.80"
+    },
+    {
+        "step": 2,
+        "multiply": 2.40,
+        "percent": "30",
+        "name": "2",
+        "pay": "2.40"
+    },
+    {
+        "step": 3,
+        "multiply": 6.00,
+        "percent": "20",
+        "name": "3",
+        "pay": "6.00"
+    },
+    {
+        "step": 4,
+        "multiply": 13.30,
+        "percent": "10",
+        "name": "4",
+        "pay": "13.30"
+    },
+    {
+        "step": 5,
+        "multiply": 35.50,
+        "percent": "10",
+        "name": "4",
+        "pay": "35.50"
+    }
+]

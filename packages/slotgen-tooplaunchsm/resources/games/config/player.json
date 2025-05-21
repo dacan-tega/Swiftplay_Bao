@@ -1,0 +1,29 @@
+{
+  "is_seamless": false,
+  "user_name": "guest6152",
+  "balance": 5000,
+  "bet_level": 1,
+  "curr_step": 0,
+  "fill": [],
+  "is_finished": true,
+  "win_amount": 0,
+  "bet_size": 1,
+  "step": 0,
+  "curr_win": 0,
+  "curr_bet": 1,
+  "curr_pos": [],
+  "is_settle": false,
+  "multi_list" : [1.8,2.4,6,13.3,35.5],
+  "bonus_list": [],
+  "stat": {
+    "stat_bets": 1,
+    "stat_games": 0,
+    "stat_profit": 2,
+    "stat_won": 2
+  },
+  "is_jackpot": false,
+  "is_continue": false,
+  "bet_amount": 0,
+  "is_win": true,
+  "bet_id": 24
+}

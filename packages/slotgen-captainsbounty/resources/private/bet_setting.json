@@ -1,0 +1,224 @@
+[
+    {
+        "currency": {
+            "code": "BDT",
+            "prefix": "",
+            "suffix": "BDT",
+            "decimal": ",",
+            "thousand": ".",
+            "betsize": [
+                0.02,
+                0.25,
+                1.25
+            ]
+        }
+    },
+    {
+        "currency": {
+            "code": "BRL",
+            "prefix": "",
+            "suffix": "BRL",
+            "decimal": ",",
+            "thousand": ".",
+            "betsize": [
+                0.05,
+                0.50,
+                2.50,
+                10.00,
+                20.00
+            ]
+        }
+    },
+    {
+        "currency": {
+            "code": "EUR",
+            "prefix": "€",
+            "suffix": "",
+            "decimal": ",",
+            "thousand": ".",
+            "betsize": [
+                0.05,
+                0.50,
+                2.50,
+                10.00,
+                20.00
+            ]
+        }
+    },
+    {
+        "currency": {
+            "code": "INR",
+            "prefix": "",
+            "suffix": "INR",
+            "decimal": ",",
+            "thousand": ".",
+            "betsize": [
+                0.05,
+                0.50,
+                2.50,
+                10.00,
+                20.00
+            ]
+        }
+    },
+    {
+        "currency": {
+            "code": "JPY",
+            "prefix": "¥",
+            "suffix": "",
+            "decimal": ",",
+            "thousand": ".",
+            "betsize": [
+                0.05,
+                0.50,
+                2.50,
+                10.00,
+                20.00
+            ]
+        }
+    },
+    {
+        "currency": {
+            "code": "KHR",
+            "prefix": "",
+            "suffix": "KHR",
+            "decimal": ",",
+            "thousand": ".",
+            "betsize": [
+                0.05,
+                0.50,
+                2.50,
+                10.00,
+                20.00
+            ]
+        }
+    },
+    {
+        "currency": {
+            "code": "KRW",
+            "prefix": "",
+            "suffix": "KRW",
+            "decimal": ",",
+            "thousand": ".",
+            "betsize": [
+                0.05,
+                0.50,
+                2.50,
+                10.00,
+                20.00
+            ]
+        }
+    },
+    {
+        "currency": {
+            "code": "LAK",
+            "prefix": "",
+            "suffix": "LAK",
+            "decimal": ",",
+            "thousand": ".",
+            "betsize": [
+                0.05,
+                0.50,
+                2.50,
+                10.00,
+                20.00
+            ]
+        }
+    },
+    {
+        "currency": {
+            "code": "MMK",
+            "prefix": "",
+            "suffix": "MMK",
+            "decimal": ",",
+            "thousand": ".",
+            "betsize": [
+                0.05,
+                0.50,
+                2.50,
+                10.00,
+                20.00
+            ]
+        }
+    },
+    {
+        "currency": {
+            "code": "MXN",
+            "prefix": "",
+            "suffix": "MXN",
+            "decimal": ",",
+            "thousand": ".",
+            "betsize": [
+                0.05,
+                0.50,
+                2.50,
+                10.00,
+                20.00
+            ]
+        }
+    },
+    {
+        "currency": {
+            "code": "THB",
+            "prefix": "\u0e3f",
+            "suffix": "",
+            "decimal": ",",
+            "thousand": ".",
+            "betsize": [
+                0.05,
+                0.50,
+                2.50,
+                10.00,
+                20.00
+            ]
+        }
+    },
+    {
+        "currency": {
+            "code": "USD",
+            "prefix": "$",
+            "suffix": "",
+            "decimal": ",",
+            "thousand": ".",
+            "betsize": [
+                0.05,
+                0.50,
+                2.50,
+                10.00,
+                20.00
+            ]
+        }
+    },
+    {
+        "currency": {
+            "code": "CNY",
+            "prefix": "¥",
+            "suffix": "",
+            "decimal": ",",
+            "thousand": ".",
+            "betsize": [
+                0.05,
+                0.50,
+                2.50,
+                10.00,
+                20.00
+            ]
+        }
+    },
+    {
+        "currency": {
+            "code": "IDR",
+            "prefix": "Rp",
+            "suffix": "",
+            "decimal": ".",
+            "thousand": ",",
+            "betsize": [
+                0.05,
+                0.50,
+                2.50,
+                10.00,
+                20.00
+            ]
+        }
+    }
+]

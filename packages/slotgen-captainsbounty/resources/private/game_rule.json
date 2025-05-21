@@ -1,0 +1,205 @@
+{
+    "payout": [
+        {
+            "name": "symbol_2",
+            "payout": [
+                {
+                    "required": "5",
+                    "pay": "50"
+                },
+                {
+                    "required": "4",
+                    "pay": "25"
+                },
+                {
+                    "required": "3",
+                    "pay": "10"
+                }
+            ]
+        },
+        {
+            "name": "symbol_3",
+            "payout": [
+                {
+                    "required": "5",
+                    "pay": "40"
+                },
+                {
+                    "required": "4",
+                    "pay": "20"
+                },
+                {
+                    "required": "3",
+                    "pay": "8"
+                }
+            ]
+        },
+        {
+            "name": "symbol_4",
+            "payout": [
+                {
+                    "required": "5",
+                    "pay": "30"
+                },
+                {
+                    "required": "4",
+                    "pay": "15"
+                },
+                {
+                    "required": "3",
+                    "pay": "6"
+                }
+            ]
+        },
+        {
+            "name": "symbol_5",
+            "payout": [
+                {
+                    "required": "5",
+                    "pay": "15"
+                },
+                {
+                    "required": "4",
+                    "pay": "10"
+                },
+                {
+                    "required": "3",
+                    "pay": "5"
+                }
+            ]
+        },
+        {
+            "name": "symbol_6",
+            "payout": [
+                {
+                    "required": "5",
+                    "pay": "12"
+                },
+                {
+                    "required": "4",
+                    "pay": "5"
+                },
+                {
+                    "required": "3",
+                    "pay": "3"
+                }
+            ]
+        },
+        {
+            "name": "symbol_7",
+            "payout": [
+                {
+                    "required": "5",
+                    "pay": "12"
+                },
+                {
+                    "required": "4",
+                    "pay": "5"
+                },
+                {
+                    "required": "3",
+                    "pay": "3"
+                }
+            ]
+        },
+        {
+            "name": "symbol_8",
+            "payout": [
+                {
+                    "required": "5",
+                    "pay": "10"
+                },
+                {
+                    "required": "4",
+                    "pay": "4"
+                },
+                {
+                    "required": "3",
+                    "pay": "2"
+                }
+            ]
+        },
+        {
+            "name": "symbol_9",
+            "payout": [
+                {
+                    "required": "5",
+                    "pay": "6"
+                },
+                {
+                    "required": "4",
+                    "pay": "3"
+                },
+                {
+                    "required": "3",
+                    "pay": "1"
+                }
+            ]
+        },
+        {
+            "name": "symbol_10",
+            "payout": [
+                {
+                    "required": "5",
+                    "pay": "6"
+                },
+                {
+                    "required": "4",
+                    "pay": "3"
+                },
+                {
+                    "required": "3",
+                    "pay": "1"
+                }
+            ]
+        }
+    ],
+    "feature_in": [
+        {
+            "pay": "freespin_1,multiply_s3",
+            "name": "1",
+            "ratio": "*",
+            "require": "3"
+        }
+    ],
+    "feature_on": [
+        {
+            "pay": "freespin_2",
+            "name": "1",
+            "ratio": "*",
+            "require": "3"
+        }
+    ],
+    "feature_out": [
+        {
+            "data": {
+                "free_num": "10"
+            },
+            "name": "freespin_1",
+            "type": "free_spin"
+        },
+        {
+            "data": {
+                "free_num": "2"
+            },
+            "name": "freespin_2",
+            "type": "free_more"
+        },
+        {
+            "data": {
+                "start_from": "1",
+                "multiply_step": "1"
+            },
+            "name": "drop_evolution_1",
+            "type": "multi_evol"
+        },
+        {
+            "data": {
+                "start_from": "2",
+                "multiply_step": "2"
+            },
+            "name": "drop_evolution_2",
+            "type": "multi_evol"
+        }
+    ]
+}

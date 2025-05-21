@@ -1,0 +1,39 @@
+{
+  "history": {
+    "normal_spin": "Normal Spin",
+    "round_num": "Round 1/",
+    "round_num_total": "Round %s/%s",
+    "free_spin_total": "Free Spin ",
+    "win_multiplier": "Win Multiplier",
+    "no_win_combine": "No Winning Combination",
+    "of_a_kind": "of a Kind",
+    "way_s": "way(s)",
+    "round_title": "Round",
+    "Game_History": "Game History",
+    "Today": "Today",
+    "Last_7_days": "Last 7 days",
+    "Custom": "Custom",
+    "Time": "Time",
+    "Transaction": "Transaction",
+    "Bet": "Apuesta",
+    "Profit": "Profit",
+    "Records": "Records",
+    "Load_more": "Load more ...",
+    "Balance": "Balance",
+    "Bet_Size": "Bet Size",
+    "Bet_Level": "Bet Level",
+    "Payout": "Payout",
+    "calc_payout": "Bet Size x Bet Level x Symbol Payout Values",
+    "Play_Session_ID" : "ID de sesión de reproducción",
+    "Date" : "Fecha",
+    "New_Balance" : "Nuevo equilibrio",
+    "Amount_Won" : "Cantidad ganada"
+  },
+  "error_message" : {
+    "Insufficient_balance" :"Maaf, Saldo Anda tidak mencukupi",
+    "Error_Code" : "Error Code",
+    "Error_Code_Bet1" : "Error Code1",
+    "Error_Max_Bet" : "You bet more than the maximum bet. Please try to reduce the Bet Amount.",
+    "Error_Min_Bet" : "You bet less than the minimum bet. Please try to increase your bet amount."
+  }
+}

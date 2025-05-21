@@ -1,0 +1,13 @@
+{
+  "history": {
+    "normal_spin": "Putaran Biasa",
+    "round_num": "Bulat 1/%s",
+    "round_num_total": "Bulat %s/%s",
+    "free_spin_total": "Putaran gratis %s/%s",
+    "win_multiplier": "Pengali Kemenangan",
+    "no_win_combine": "Tidak Ada Kombinasi Hasil Menang",
+    "of_a_kind": "setara",
+    "way_s": "cara",
+    "round_title": "Ronde"
+  }
+}

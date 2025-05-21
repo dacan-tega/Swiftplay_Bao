@@ -1,0 +1,13 @@
+{
+  "history": {
+    "normal_spin": "正常旋转",
+    "round_num": "圆形的 1/%s",
+    "round_num_total": "圆形的 %s/%s",
+    "free_spin_total": "自由旋转 %s/%s",
+    "win_multiplier": "奖金乘数",
+    "no_win_combine": "无中奖组合",
+    "of_a_kind": "条中奖路",
+    "way_s": "方法",
+    "round_title": "第1回合"
+  }
+}

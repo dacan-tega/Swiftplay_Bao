@@ -1,0 +1,41 @@
+{
+    "name": "slotgen/slotgen-spaceman",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Slotgen\\SpaceMan\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SlotGen",
+            "email": "slotgen@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4|^8.0",
+        "laravelcollective/html": "^6.2",
+        "yajra/laravel-datatables": "^10.1.0",
+        "yajra/laravel-datatables-oracle": "~10.11.3",
+        "intervention/image": "~2.5",
+        "infyomlabs/adminlte-templates": "^6.0.0",        
+        "infyomlabs/laravel-generator": "^6.0.1"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^6.0",
+        "phpunit/phpunit": "^9.0"
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Slotgen\\SpaceMan\\SpaceManServiceProvider"
+            ],
+            "aliases": {
+                "SpaceMan": "Slotgen\\SpaceMan\\SpaceManFacade"
+            }
+        }
+    }
+}

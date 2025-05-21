@@ -1,0 +1,33 @@
+
+{
+"history": {
+"normal_spin": "Giro Normal",
+"round_num": "Ronda 1/",
+"round_num_total": "Ronda %s/%s",
+"free_spin_total": "Giro Gratis",
+"win_multiplier": "Multiplicador de Ganancias",
+"no_win_combine": "Sin Combinación Ganadora",
+"of_a_kind": "de una Clase",
+"way_s": "vía(s)",
+"round_title": "Ronda",
+"Game_History": "Historial del Juego",
+"Today": "Hoy",
+"Last_7_days": "Últimos 7 días",
+"Custom": "Personalizado",
+"Time": "Tiempo",
+"Transaction": "Transacción",
+"Bet": "Apuesta",
+"Profit": "Ganancia",
+"Records": "Registros",
+"Load_more": "Cargar más ...",
+"Balance": "Balance",
+"Bet_Size": "Tamaño de la Apuesta",
+"Bet_Level": "Nivel de la Apuesta",
+"Payout": "Pago",
+"calc_payout": "Tamaño de la Apuesta x Nivel de la Apuesta x Valores de Pago de Símbolos"
+},
+"error_message" : {
+"Insufficient_balance" :"Saldo insuficiente. Por favor, intenta cambiar el Monto de la Apuesta.",
+"Error_Code" : "Código de Error"
+}
+}

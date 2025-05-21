@@ -1,0 +1,283 @@
+{
+    "uuid": "45067592-4d3d-42e1-a691-390798e4fbc7",
+    "type": 1,
+    "title": "Mahjong Ways",
+    "image_name": "512398_732835_QueenofBounty.jpg",
+    "short_desc": "Mahjong Ways",
+    "description": "<p style=\"margin-bottom: 1rem; color: rgb(0, 0, 0); font-family: Lato, sans-serif;\">Coconut girl is a 5-reel, 3-row video slot featuring cascading symbols with increasing multipliers and free spin selections.<\/p><p style=\"margin-bottom: 1rem; color: rgb(0, 0, 0); font-family: Lato, sans-serif;\">The game is played with 20 base bets for 20 ways, bet levels of 1 to 10, and bet sizes of 0.01 to 0.25.<\/p>",
+    "jackpot_sum": null,
+    "jackpot_ratio": null,
+    "credit_line": "20.00",
+    "buy_feature": 100,
+    "buy_max": null,
+    "bet_size": "0.05",
+    "bet_level": "1.00",
+    "default_feature": "multiply_s1",
+    "mini_game": null,
+    "line_num": 20,
+    "freespin_require": 4,
+    "freespin_more": 5,
+    "line_data": null,
+    "default_bet_level": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+    ],
+    "max_buy_feature" : 7600,
+    "currency_prefix": "\u0e3f",
+    "currency_suffix": null,
+    "currency_thousand": ",",
+    "currency_decimal": ".",
+    "default_bet_size": [
+        "0.05",
+        "1.00",
+        "2.50",
+        "10.00"
+    ],
+    "currency": 
+        {
+            "prefix": "\u0e3f",
+            "suffix": null,
+            "thousand": ",",
+            "decimal": ".",
+            "betsize": [
+                "0.05",
+                "1.00",
+                "2.50",
+                "10.00"
+            ]
+        }
+    ,
+    "icons": [
+        {
+            "name": "0",
+            "payout": [
+                {
+                    "min": 12,
+                    "max": 30,
+                    "pay": 1000
+                },
+                {
+                    "min": 10,
+                    "max": 11,
+                    "pay": 500
+                },
+                {
+                    "min": 8,
+                    "max": 9,
+                    "pay": 200
+                }
+            ]
+        },
+        {
+            "name": "1",
+            "payout": [
+                {
+                    "min": 12,
+                    "max": 30,
+                    "pay": 500
+                },
+                {
+                    "min": 10,
+                    "max": 11,
+                    "pay": 200
+                },
+                {
+                    "min": 8,
+                    "max": 9,
+                    "pay": 50
+                }
+            ]
+        },
+        {
+            "name": "2",
+            "payout": [
+                {
+                    "min": 12,
+                    "max": 30,
+                    "pay": 300
+                },
+                {
+                    "min": 10,
+                    "max": 11,
+                    "pay": 100
+                },
+                {
+                    "min": 8,
+                    "max": 9,
+                    "pay": 40
+                }
+            ]
+        },
+        {
+            "name": "3",
+            "payout": [
+                {
+                    "min": 12,
+                    "max": 30,
+                    "pay": 240
+                },
+                {
+                    "min": 10,
+                    "max": 11,
+                    "pay": 40
+                },
+                {
+                    "min": 8,
+                    "max": 9,
+                    "pay": 30
+                }
+            ]
+        },
+        {
+            "name": "4",
+            "payout": [
+                {
+                    "min": 12,
+                    "max": 30,
+                    "pay": 200
+                },
+                {
+                    "min": 10,
+                    "max": 11,
+                    "pay": 30
+                },
+                {
+                    "min": 8,
+                    "max": 9,
+                    "pay": 20
+                }
+            ]
+        },
+        {
+            "name": "5",
+            "payout": [
+                {
+                    "min": 12,
+                    "max": 30,
+                    "pay": 160
+                },
+                {
+                    "min": 10,
+                    "max": 11,
+                    "pay": 24
+                },
+                {
+                    "min": 8,
+                    "max": 9,
+                    "pay": 16
+                }
+            ]
+        },
+        {
+            "name": "6",
+            "payout": [
+                {
+                    "min": 12,
+                    "max": 30,
+                    "pay": 100
+                },
+                {
+                    "min": 10,
+                    "max": 11,
+                    "pay": 20
+                },
+                {
+                    "min": 8,
+                    "max": 9,
+                    "pay": 10
+                }
+            ]
+        },
+        {
+            "name": "7",
+            "payout": [
+                {
+                    "min": 12,
+                    "max": 30,
+                    "pay": 80
+                },
+                {
+                    "min": 10,
+                    "max": 11,
+                    "pay": 18
+                },
+                {
+                    "min": 8,
+                    "max": 9,
+                    "pay": 8
+                }
+            ]
+        },
+        {
+            "name": "8",
+            "payout": [
+                {
+                    "min": 12,
+                    "max": 30,
+                    "pay": 40
+                },
+                {
+                    "min": 10,
+                    "max": 11,
+                    "pay": 15
+                },
+                {
+                    "min": 8,
+                    "max": 9,
+                    "pay": 5
+                }
+            ]
+        },
+        {
+            "name": "9",
+            "payout": [
+                {
+                    "min": 6,
+                    "max": 6,
+                    "pay": 2000
+                },
+                {
+                    "min": 5,
+                    "max": 5,
+                    "pay": 100
+                },
+                {
+                    "min": 4,
+                    "max": 4,
+                    "pay": 60
+                }
+            ]
+        },
+        {
+            "name": "x",
+            "payout": [
+                {
+                    "min": 6,
+                    "max": 6,
+                    "pay": 20
+                },
+                {
+                    "min": 5,
+                    "max": 5,
+                    "pay": 7.5
+                },
+                {
+                    "min": 4,
+                    "max": 4,
+                    "pay": 2.5
+                }
+            ]
+        }
+    ],
+    "api_orgi": "https:\/\/testing.tegahub.com\/api\/v1",
+    "min_feature_win": 123,
+    "game_folder": "gates_of_olympus-1715765326"
+}

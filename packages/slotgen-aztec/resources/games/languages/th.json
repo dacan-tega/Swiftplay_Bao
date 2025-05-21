@@ -1,0 +1,13 @@
+{
+  "history": {
+    "normal_spin": "สปินปกติ",
+    "round_num": "กลม 1/%s",
+    "round_num_total": "กลม %s/%s",
+    "free_spin_total": "หมุนฟรี %s/%s",
+    "win_multiplier": "ตัวคูณเงินรางวัล",
+    "no_win_combine": "ไม่มีชุดสัญลักษณ์ที่ชนะรางวัล",
+    "of_a_kind": "อันเหมือน",
+    "way_s": "วิธี",
+    "round_title": "รอบ"
+  }
+}

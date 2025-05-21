@@ -1,0 +1,367 @@
+[
+    {
+        "reel": "1",
+        "payout": [
+            {
+                "symbol": "symbol_1_0",
+                "weight": "3"
+            },
+            {
+                "symbol": "symbol_2_0",
+                "weight": "5"
+            },
+            {
+                "symbol": "symbol_2_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_3_0",
+                "weight": "5"
+            },
+            {
+                "symbol": "symbol_3_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_4_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_4_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_5_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_5_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_6_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_6_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_7_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_7_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_8_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_8_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_9_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_9_1",
+                "weight": "0"
+            }
+        ]
+    },
+    {
+        "reel": "2",
+        "payout": [
+            {
+                "symbol": "symbol_1_0",
+                "weight": "3"
+            },
+            {
+                "symbol": "symbol_2_0",
+                "weight": "5"
+            },
+            {
+                "symbol": "symbol_2_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_3_0",
+                "weight": "5"
+            },
+            {
+                "symbol": "symbol_3_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_4_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_4_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_5_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_5_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_6_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_6_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_7_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_7_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_8_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_8_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_9_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_9_1",
+                "weight": "1"
+            }
+        ]
+    },
+    {
+        "reel": "3",
+        "payout": [
+            {
+                "symbol": "symbol_1_0",
+                "weight": "3"
+            },
+            {
+                "symbol": "symbol_2_0",
+                "weight": "5"
+            },
+            {
+                "symbol": "symbol_2_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_3_0",
+                "weight": "5"
+            },
+            {
+                "symbol": "symbol_3_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_4_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_4_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_5_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_5_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_6_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_6_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_7_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_7_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_8_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_8_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_9_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_9_1",
+                "weight": "1"
+            }
+        ]
+    },
+    {
+        "reel": "4",
+        "payout": [
+            {
+                "symbol": "symbol_1_0",
+                "weight": "3"
+            },
+            {
+                "symbol": "symbol_2_0",
+                "weight": "5"
+            },
+            {
+                "symbol": "symbol_2_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_3_0",
+                "weight": "5"
+            },
+            {
+                "symbol": "symbol_3_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_4_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_4_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_5_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_5_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_6_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_6_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_7_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_7_1",
+                "weight": "1"
+            },
+            {
+                "symbol": "symbol_8_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_8_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_9_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_9_1",
+                "weight": "1"
+            }
+        ]
+    },
+    {
+        "reel": "5",
+        "payout": [
+            {
+                "symbol": "symbol_1_0",
+                "weight": "3"
+            },
+            {
+                "symbol": "symbol_2_0",
+                "weight": "5"
+            },
+            {
+                "symbol": "symbol_2_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_3_0",
+                "weight": "5"
+            },
+            {
+                "symbol": "symbol_3_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_4_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_4_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_5_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_5_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_6_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_6_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_7_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_7_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_8_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_8_1",
+                "weight": "0"
+            },
+            {
+                "symbol": "symbol_9_0",
+                "weight": "10"
+            },
+            {
+                "symbol": "symbol_9_1",
+                "weight": "0"
+            }
+        ]
+    }
+]

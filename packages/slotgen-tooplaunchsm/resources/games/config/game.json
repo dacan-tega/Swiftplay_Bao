@@ -1,0 +1,13 @@
+{
+    "title": "Space Man",
+    "base_bet": "20",
+    "jackpot_amount": 5.44,
+    "orinal_url": "http:\/\/192.168.1.111\/api\/spaceman\/v1",
+    "game_folder": "space_man",
+    "bet_level" : 1,
+    "number_roll" : 20,
+    "time_roll" : 0.1,
+    "min_bet"   : 1,
+    "max_bet"   : 100,
+    "multily"   : 2.88
+}
