@@ -1,0 +1,20 @@
+<?php
+return [
+'Affiliate'=>'Affiliate',
+'User'=>'User wants to be an affiliate. Get in touch by email:',
+'NEW'=>'NEW DEPOSIT',
+'Hello'=>'Hello Administrator, We inform you that a new deposit in the amount of',
+'carried'=>', carried out by the user',
+'user1'=>'user',
+'value'=>'value',
+'registered'=>', has been registered to your account.',
+'WITHDRAWAL'=>'NEW WITHDRAWAL REQUEST',
+'Dear'=>'Dear Administrator,',
+'wish'=>'We wish to inform that the user',
+'requested'=>'just requested a cash withdrawal',
+'platform'=>'on our platform.',
+'Password_Reset'=>'Password Reset',
+'receiving'=>'You are receiving this email because we received a request to reset your account password.',
+'Redefine_password'=>'Redefine password',
+'not_requested'=>'If you have not requested a password reset, please ignore this email.',
+];

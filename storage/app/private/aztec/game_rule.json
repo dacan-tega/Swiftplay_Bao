@@ -1,0 +1,242 @@
+{
+    "payout": [
+        {
+            "pay": "30",
+            "name": "goldmask",
+            "require": "3"
+        },
+        {
+            "pay": "40",
+            "name": "goldmask",
+            "require": "4"
+        },
+        {
+            "pay": "60",
+            "name": "goldmask",
+            "require": "5"
+        },
+        {
+            "pay": "80",
+            "name": "goldmask",
+            "require": "6"
+        },
+        {
+            "pay": "20",
+            "name": "redmask",
+            "require": "3"
+        },
+        {
+            "pay": "25",
+            "name": "redmask",
+            "require": "4"
+        },
+        {
+            "pay": "50",
+            "name": "redmask",
+            "require": "5"
+        },
+        {
+            "pay": "70",
+            "name": "redmask",
+            "require": "6"
+        },
+        {
+            "pay": "10",
+            "name": "redviolet",
+            "require": "3"
+        },
+        {
+            "pay": "25",
+            "name": "redviolet",
+            "require": "4"
+        },
+        {
+            "pay": "40",
+            "name": "redviolet",
+            "require": "5"
+        },
+        {
+            "pay": "60",
+            "name": "redviolet",
+            "require": "6"
+        },
+        {
+            "pay": "8",
+            "name": "purple",
+            "require": "3"
+        },
+        {
+            "pay": "15",
+            "name": "purple",
+            "require": "4"
+        },
+        {
+            "pay": "20",
+            "name": "purple",
+            "require": "5"
+        },
+        {
+            "pay": "30",
+            "name": "purple",
+            "require": "6"
+        },
+        {
+            "pay": "6",
+            "name": "flower",
+            "require": "3"
+        },
+        {
+            "pay": "10",
+            "name": "flower",
+            "require": "4"
+        },
+        {
+            "pay": "12",
+            "name": "flower",
+            "require": "5"
+        },
+        {
+            "pay": "15",
+            "name": "flower",
+            "require": "6"
+        },
+        {
+            "pay": "6",
+            "name": "grass",
+            "require": "3"
+        },
+        {
+            "pay": "10",
+            "name": "grass",
+            "require": "4"
+        },
+        {
+            "pay": "12",
+            "name": "grass",
+            "require": "5"
+        },
+        {
+            "pay": "15",
+            "name": "grass",
+            "require": "6"
+        },
+        {
+            "pay": "4",
+            "name": "a",
+            "require": "3"
+        },
+        {
+            "pay": "6",
+            "name": "a",
+            "require": "4"
+        },
+        {
+            "pay": "8",
+            "name": "a",
+            "require": "5"
+        },
+        {
+            "pay": "10",
+            "name": "a",
+            "require": "6"
+        },
+        {
+            "pay": "4",
+            "name": "k",
+            "require": "3"
+        },
+        {
+            "pay": "6",
+            "name": "k",
+            "require": "4"
+        },
+        {
+            "pay": "8",
+            "name": "k",
+            "require": "5"
+        },
+        {
+            "pay": "10",
+            "name": "k",
+            "require": "6"
+        },
+        {
+            "pay": "1",
+            "name": "q",
+            "require": "3"
+        },
+        {
+            "pay": "2",
+            "name": "q",
+            "require": "4"
+        },
+        {
+            "pay": "3",
+            "name": "q",
+            "require": "5"
+        },
+        {
+            "pay": "4",
+            "name": "q",
+            "require": "6"
+        },
+        {
+            "pay": "1",
+            "name": "j",
+            "require": "3"
+        },
+        {
+            "pay": "2",
+            "name": "j",
+            "require": "4"
+        },
+        {
+            "pay": "3",
+            "name": "j",
+            "require": "5"
+        },
+        {
+            "pay": "4",
+            "name": "j",
+            "require": "6"
+        },
+        {
+            "pay": "1",
+            "name": "10",
+            "require": "3"
+        },
+        {
+            "pay": "2",
+            "name": "10",
+            "require": "4"
+        },
+        {
+            "pay": "3",
+            "name": "10",
+            "require": "5"
+        },
+        {
+            "pay": "4",
+            "name": "10",
+            "require": "6"
+        }
+    ],
+    "feature_in": [
+        {
+            "pay": "respin_until_blank",
+            "name": "Symbol_10",
+            "ratio": "50",
+            "require": "3"
+        }
+    ],
+    "feature_on": [],
+    "feature_out": [
+        {
+            "data": {
+                "multiply_value": "10"
+            },
+            "name": "respin_until_blank",
+            "type": "blank_infinite"
+        }
+    ]
+}

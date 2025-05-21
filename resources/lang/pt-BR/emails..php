@@ -1,0 +1,20 @@
+<?php
+return [
+    'Affiliate' => 'Afiliado',
+    'User' => 'O usuário deseja ser um afiliado. Entre em contato por e-mail:',
+    'NEW' => 'NOVO DEPÓSITO',
+    'Hello' => 'Olá Administrador, Informamos que um novo depósito no valor de',
+    'carried' => ', realizado pelo usuário',
+    'user1' => 'usuário',
+    'value' => 'valor',
+    'registered' => ', foi registrado em sua conta.',
+    'WITHDRAWAL' => 'NOVO PEDIDO DE RETIRADA',
+    'Dear' => 'Prezado Administrador,',
+    'wish' => 'Desejamos informar que o usuário',
+    'requested' => 'acabou de solicitar uma retirada de dinheiro',
+    'platform' => 'em nossa plataforma.',
+    'Password_Reset' => 'Redefinição de Senha',
+    'receiving' => 'Você está recebendo este e-mail porque recebemos uma solicitação para redefinir a senha da sua conta.',
+    'Redefine_password' => 'Redefinir senha',
+    'not_requested' => 'Se você não solicitou a redefinição de senha, por favor, ignore este e-mail.',
+];

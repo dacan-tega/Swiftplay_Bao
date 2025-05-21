@@ -1,0 +1,201 @@
+[id=tooltip] {
+        visibility: hidden;
+    }
+
+    div[data-descr]:focus+[id="tooltip"] {
+        visibility: visible;
+    }
+
+    .gh_basic_sprite {
+        background-image: url(25.png);
+        background-repeat: no-repeat;
+        background-size: 162px 112px;
+        display: inline-block;
+        overflow: hidden
+    }
+
+    .gh_ic_nav_calendar {
+        background-position: -1px -1px;
+        height: 110px;
+        min-height: 110px;
+        min-width: 110px;
+        width: 110px
+    }
+
+    .gh_ic_nav_info_s {
+        background-position: -113px -1px;
+        height: 48px;
+        min-height: 48px;
+        min-width: 48px;
+        width: 48px
+    }
+
+    .symbol_atlas {
+        display: inline-block;
+        overflow: hidden;
+        background-repeat: no-repeat;
+        background-image: url(20.png)
+    }
+
+    .symbol_2_1 {
+        background-position: -1px -1px
+    }
+
+    .symbol_2_1,
+    .symbol_6_1 {
+        width: 160px;
+        height: 160px
+    }
+
+    .symbol_6_1 {
+        background-position: -1px -163px
+    }
+
+    .symbol_4_1 {
+        width: 160px;
+        height: 160px;
+        background-position: -1px -325px
+    }
+
+    .symbol_3_1 {
+        background-position: -325px -1px
+    }
+
+    .symbol_1_1,
+    .symbol_3_1 {
+        width: 160px;
+        height: 160px
+    }
+
+    .symbol_1_1 {
+        background-position: -163px -1px
+    }
+
+    .symbol_5_1 {
+        background-position: -163px -163px
+    }
+
+    .symbol_5_1,
+    .wh {
+        width: 160px;
+        height: 160px
+    }
+
+    .wh {
+        background-position: -163px -325px
+    }
+
+    .history_assets {
+        display: inline-block;
+        overflow: hidden;
+        background-repeat: no-repeat;
+        background-image: url(22.png)
+    }
+
+    .bg_bns {
+        background-position: -525px -1px
+    }
+
+    .bg_bns,
+    .bg_main {
+        width: 520px;
+        height: 492px
+    }
+
+    .bg_main {
+        background-position: -1047px -1px
+    }
+
+    .bg_free {
+        width: 522px;
+        height: 494px;
+        background-position: -523px -1px
+    }
+
+    .mtp_bns {
+        width: 312px;
+        height: 72px;
+        background-position: -1569px -1px
+    }
+
+    .mul_x10 {
+        width: 112px;
+        height: 68px;
+        background-position: -1691px -75px
+    }
+
+    .mtp_main {
+        width: 120px;
+        height: 120px;
+        background-position: -1569px -75px
+    }
+
+    .mul_x2 {
+        background-position: -1691px -145px
+    }
+
+    .mul_x2,
+    .mul_x5 {
+        width: 84px;
+        height: 68px
+    }
+
+    .mul_x5 {
+        background-position: -1777px -145px
+    }
+
+    .special_symbol_atlas {
+        display: inline-block;
+        overflow: hidden;
+        background-repeat: no-repeat;
+        background-image: url(21.png)
+    }
+
+    .symbol_0_1 {
+        width: 160px;
+        height: 160px;
+        background-position: -1px -1px
+    }
+
+    .payline {
+        display: inline-block;
+        overflow: hidden;
+        background-repeat: no-repeat;
+        background-image: url(24.png)
+    }
+
+    .pl1 {
+        background-position: -1px -1px
+    }
+
+    .pl1,
+    .pl2 {
+        width: 30px;
+        height: 27px
+    }
+
+    .pl2 {
+        background-position: -33px -1px
+    }
+
+    .pl3 {
+        background-position: -65px -1px
+    }
+
+    .pl3,
+    .pl4 {
+        width: 30px;
+        height: 27px
+    }
+
+    .pl4 {
+        background-position: -97px -1px
+    }
+
+    .pl5 {
+        width: 30px;
+        height: 27px;
+        background-position: -129px -1px
+    }
+
+   

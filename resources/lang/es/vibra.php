@@ -1,0 +1,4 @@
+<?php
+return [
+    'close'=>'Cerrar',
+];

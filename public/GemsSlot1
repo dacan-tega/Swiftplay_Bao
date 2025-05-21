@@ -1,0 +1,39 @@
+<?php
+
+namespace Slotgen\SlotgenGemsSlot1;
+
+use Filament\Contracts\Plugin;
+use Filament\Panel;
+use Filament\Support\Assets\Theme;
+use Filament\Support\Color;
+use Filament\Support\Facades\FilamentAsset;
+
+class SlotgenGemsSlot1 implements Plugin
+{
+    public function getId(): string
+    {
+        return 'slotgen-gemsslot1';
+    }
+
+    public function register(Panel $panel): void
+    {
+        FilamentAsset::register([
+            Theme::make('slotgen-gemsslot1', __DIR__ . '/../resources/dist/slotgen-gemsslot1.css'),
+        ]);
+
+        $panel
+            ->font('DM Sans')
+            ->primaryColor(Color::Amber)
+            ->secondaryColor(Color::Gray)
+            ->warningColor(Color::Amber)
+            ->dangerColor(Color::Rose)
+            ->successColor(Color::Green)
+            ->grayColor(Color::Gray)
+            ->theme('slotgen-gemsslot1');
+    }
+
+    public function boot(Panel $panel): void
+    {
+        //
+    }
+}

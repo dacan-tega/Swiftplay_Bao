@@ -1,0 +1,42 @@
+{
+	"name": "Captains Bounty v1.0.7",
+	"short_name": "Captains Bounty v1.0.7",
+	"description": "Designed by Slotgen, this casino slot game immerses players in the mystical world of pirates. Featuring sharp graphics, symbols include treasure chests, maps, and pirates, creating an engaging experience. The lively sound effects, coupled with special features like free spins and jackpots, make the game even more thrilling.",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#000000",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}

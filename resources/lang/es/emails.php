@@ -1,0 +1,20 @@
+<?php
+return [
+    'Affiliate'=>'Afiliado',
+    'User'=>'El usuario quiere ser afiliado. Ponte en contacto por correo electrónico:',
+    'NEW'=>'NUEVO DEPÓSITO',
+    'Hello'=>'Hola Administrador, Te informamos que se ha realizado un nuevo depósito por un monto de',
+    'carried'=>', realizado por el usuario',
+    'user1'=>'usuario',
+    'value'=>'valor',
+    'registered'=>', ha sido registrado en tu cuenta.',
+    'WITHDRAWAL'=>'NUEVA SOLICITUD DE RETIRO',
+    'Dear'=>'Estimado Administrador,',
+    'wish'=>'Deseamos informar que el usuario',
+    'requested'=>'acaba de solicitar un retiro de efectivo',
+    'platform'=>'en nuestra plataforma.',
+    'Password_Reset'=>'Restablecimiento de Contraseña',
+    'receiving'=>'Estás recibiendo este correo electrónico porque recibimos una solicitud para restablecer la contraseña de tu cuenta.',
+    'Redefine_password'=>'Redefinir contraseña',
+    'not_requested'=>'Si no has solicitado restablecer la contraseña, por favor ignora este correo electrónico.',
+];

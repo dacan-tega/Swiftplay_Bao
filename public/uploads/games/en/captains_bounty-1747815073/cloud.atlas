@@ -1,0 +1,12 @@
+cloud.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+ui_mg_bg
+bounds:2,67,379,335
+ui_mg_cloud_1
+bounds:2,2,379,63
+ui_mg_cloud_2
+bounds:383,296,417,106
+ui_mg_cloud_3
+bounds:383,194,417,100

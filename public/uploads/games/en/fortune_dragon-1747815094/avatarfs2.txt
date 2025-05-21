@@ -1,0 +1,137 @@
+avatarfs2.png
+	size: 1873, 968
+	format: LuminanceAlpha
+	filter: Linear, Linear
+	pma: true
+bg_fore
+	bounds: 1471, 7, 44, 53
+	rotate: 90
+bg_handR
+	bounds: 1828, 731, 31, 43
+	offsets: 1, 0, 32, 43
+	rotate: 90
+bg_indR
+	bounds: 1137, 122, 22, 19
+bg_pink
+	bounds: 686, 193, 18, 14
+bg_toe
+	bounds: 1176, 289, 17, 27
+bi_drag_seq_body/bi_drag_seq_body_00
+	bounds: 1663, 764, 208, 202
+	offsets: 226, 85, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_01
+	bounds: 1626, 405, 242, 249
+	offsets: 169, 96, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_02
+	bounds: 706, 42, 285, 274
+	offsets: 103, 139, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_03
+	bounds: 350, 209, 290, 354
+	offsets: 58, 156, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_04
+	bounds: 719, 318, 297, 474
+	offsets: 24, 166, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_05
+	bounds: 1189, 656, 310, 472
+	offsets: 14, 167, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_06
+	bounds: 2, 3, 345, 475
+	offsets: 0, 167, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_07
+	bounds: 2, 480, 346, 486
+	offsets: 0, 169, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_08
+	bounds: 350, 501, 367, 465
+	offsets: 11, 166, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_09
+	bounds: 719, 617, 349, 468
+	offsets: 23, 166, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_10
+	bounds: 1195, 359, 295, 429
+	offsets: 41, 211, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_11
+	bounds: 1195, 134, 223, 395
+	offsets: 47, 222, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_12
+	bounds: 349, 32, 175, 335
+	offsets: 50, 274, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_13
+	bounds: 993, 122, 142, 194
+	offsets: 58, 314, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_14
+	bounds: 1626, 289, 114, 172
+	offsets: 75, 323, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_15
+	bounds: 1114, 7, 97, 113
+	offsets: 70, 322, 554, 655
+bi_drag_seq_hand/bi_drag_seq_hand03
+	bounds: 1137, 143, 54, 69
+	offsets: 296, 113, 554, 655
+bi_drag_seq_hand/bi_drag_seq_hand04
+	bounds: 1387, 38, 82, 94
+	offsets: 210, 222, 554, 655
+bi_drag_seq_hand/bi_drag_seq_hand05
+	bounds: 1471, 53, 79, 95
+	offsets: 195, 235, 554, 655
+	rotate: 90
+bi_drag_seq_hand/bi_drag_seq_hand06
+	bounds: 1302, 30, 83, 102
+	offsets: 185, 238, 554, 655
+bi_drag_seq_hand/bi_drag_seq_hand07
+	bounds: 1213, 22, 87, 110
+	offsets: 172, 242, 554, 655
+bi_drag_seq_hand/bi_drag_seq_hand08
+	bounds: 1592, 67, 90, 124
+	offsets: 150, 271, 554, 655
+	rotate: 90
+bi_drag_seq_hand/bi_drag_seq_hand09
+	bounds: 1663, 663, 99, 129
+	offsets: 116, 324, 554, 655
+	rotate: 90
+bi_drag_seq_hand/bi_drag_seq_hand10
+	bounds: 1734, 144, 112, 143
+	offsets: 86, 378, 554, 655
+bi_drag_seq_hand/bi_drag_seq_hand11
+	bounds: 1718, 30, 116, 112
+	offsets: 78, 460, 554, 655
+bi_drag_seq_hand/bi_drag_seq_hand12
+	bounds: 1592, 159, 140, 128
+	offsets: 89, 486, 554, 655
+bi_drag_seq_hand/bi_drag_seq_hand13
+	bounds: 993, 2, 118, 119
+	offsets: 129, 473, 554, 655
+	rotate: 90
+bi_drag_seq_hand18F
+	bounds: 1302, 2, 90, 26
+	offsets: 305, 534, 554, 655
+bi_drag_seq_hand19F
+	bounds: 1800, 300, 103, 34
+	offsets: 299, 528, 554, 655
+	rotate: 90
+bi_drag_seq_hand20F
+	bounds: 1794, 667, 95, 32
+	offsets: 305, 528, 554, 655
+	rotate: 90
+bi_drag_seq_hand21F
+	bounds: 1836, 309, 94, 30
+	offsets: 306, 531, 554, 655
+	rotate: 90
+bi_drag_seq_hand22F
+	bounds: 1137, 214, 102, 37
+	offsets: 304, 527, 554, 655
+	rotate: 90
+ghoL_bns
+	bounds: 1592, 336, 12, 21
+indL_bns
+	bounds: 349, 9, 14, 21
+pinL_bns
+	bounds: 1176, 274, 13, 17
+	rotate: 90

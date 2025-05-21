@@ -1,0 +1,42 @@
+{
+	"name": "Fortune Dragon v2.0.2",
+	"short_name": "Fortune Dragon v2.0.2",
+	"description": "\"Fortune Dragon\" by Slotgen is an engaging casino slot game featuring the Fortune Dragon as the main character, a symbol of luck in Chinese culture. This game immerses players in a traditional Chinese festival atmosphere, where they have the chance to win big rewards through the luck bestowed by the Fortune Dragon.",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "any",
+	"background_color": "#000000",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}

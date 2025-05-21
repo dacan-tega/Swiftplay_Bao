@@ -1,0 +1,576 @@
+avatarfs1.png
+	size: 1969, 1349
+	format: LuminanceAlpha
+	filter: Linear, Linear
+	pma: true
+_fx/fx_glasses1_000
+	bounds: 582, 15, 36, 14
+	rotate: 90
+_fx/fx_glasses1_001
+	bounds: 582, 15, 36, 14
+	rotate: 90
+_fx/fx_glasses1_002
+	bounds: 1268, 12, 36, 14
+_fx/fx_glasses1_003
+	bounds: 1949, 1259, 36, 14
+	rotate: 90
+_fx/fx_glasses1_004
+	bounds: 1886, 539, 36, 14
+_fx/fx_glasses1_005
+	bounds: 1001, 36, 36, 14
+	rotate: 90
+_fx/fx_glasses1_006
+	bounds: 701, 9, 36, 14
+_fx/fx_glasses1_007
+	bounds: 1306, 12, 36, 14
+_fx/fx_glasses1_008
+	bounds: 1949, 1221, 36, 14
+	rotate: 90
+_fx/fx_glasses1_009
+	bounds: 1949, 1183, 36, 14
+	rotate: 90
+_fx/fx_glasses1_010
+	bounds: 1344, 12, 36, 14
+_fx/fx_glasses2_000
+	bounds: 1382, 12, 36, 14
+_fx/fx_glasses2_001
+	bounds: 1382, 12, 36, 14
+_fx/fx_glasses2_002
+	bounds: 1420, 2, 36, 14
+_fx/fx_glasses2_003
+	bounds: 1458, 2, 36, 14
+_fx/fx_glasses2_004
+	bounds: 1496, 2, 36, 14
+_fx/fx_glasses2_005
+	bounds: 1534, 2, 36, 14
+_fx/fx_glasses2_006
+	bounds: 1572, 2, 36, 14
+_fx/fx_glasses2_007
+	bounds: 1572, 2, 36, 14
+_fx/fx_glasses2_008
+	bounds: 1505, 746, 36, 14
+_fx/fx_glasses2_009
+	bounds: 1924, 517, 36, 14
+	rotate: 90
+_fx/fx_glasses2_010
+	bounds: 1886, 523, 36, 14
+_fx/fx_glasses2_011
+	bounds: 1423, 705, 36, 14
+_fx/fx_glasses2_012
+	bounds: 1870, 158, 36, 14
+	rotate: 90
+_fx/fx_glasses2_013
+	bounds: 1870, 158, 36, 14
+	rotate: 90
+_fx/fx_glasses2_014
+	bounds: 1870, 120, 36, 14
+	rotate: 90
+_fx/fx_glasses2_015
+	bounds: 1872, 82, 36, 14
+	rotate: 90
+_fx/fx_glasses2_016
+	bounds: 1886, 165, 36, 14
+	rotate: 90
+_fx/fx_glasses2_017
+	bounds: 1886, 127, 36, 14
+	rotate: 90
+_fx/fx_glasses2_018
+	bounds: 1888, 89, 36, 14
+	rotate: 90
+_fx/fx_glasses2_019
+	bounds: 1888, 89, 36, 14
+	rotate: 90
+_fx/fx_glasses2_020
+	bounds: 1875, 507, 36, 14
+_fx/fx_glasses2_021
+	bounds: 1875, 491, 36, 14
+_fx/fx_glasses2_022
+	bounds: 1902, 165, 36, 14
+	rotate: 90
+_fx/fx_glasses2_023
+	bounds: 1902, 127, 36, 14
+	rotate: 90
+_fx/fx_glasses2_024
+	bounds: 1904, 89, 36, 14
+	rotate: 90
+_fx/fx_glasses2_025
+	bounds: 1904, 89, 36, 14
+	rotate: 90
+_fx/fx_glasses2_026
+	bounds: 1900, 21, 36, 14
+	rotate: 90
+_fx/fx_glasses2_027
+	bounds: 1910, 234, 36, 14
+	rotate: 90
+_fx/fx_glasses2_028
+	bounds: 1913, 281, 36, 14
+	rotate: 90
+_fx/fx_glasses2_029
+	bounds: 1926, 243, 36, 14
+	rotate: 90
+_fx/fx_heart_000
+	bounds: 1910, 432, 36, 14
+	rotate: 90
+_fx/fx_heart_001
+	bounds: 1910, 394, 36, 14
+	rotate: 90
+_fx/fx_heart_002
+	bounds: 1914, 336, 36, 14
+	rotate: 90
+_fx/fx_heart_003
+	bounds: 1914, 320, 36, 14
+_fx/fx_heart_004
+	bounds: 1929, 282, 36, 14
+	rotate: 90
+_fx/fx_heart_005
+	bounds: 1945, 282, 36, 14
+	rotate: 90
+_fx/fx_heart_006
+	bounds: 1942, 244, 36, 14
+	rotate: 90
+_fx/fx_heart_007
+	bounds: 1913, 479, 36, 14
+	rotate: 90
+_fx/fx_heart_008
+	bounds: 1929, 496, 36, 14
+_fx/fx_heart_009
+	bounds: 1929, 480, 36, 14
+_fx/fx_heart_010
+	bounds: 1929, 464, 36, 14
+_fx/fx_heart_011
+	bounds: 1926, 448, 36, 14
+_fx/fx_heart_012
+	bounds: 1926, 432, 36, 14
+_fx/fx_heart_013
+	bounds: 1926, 416, 36, 14
+_fx/fx_heart_014
+	bounds: 1926, 400, 36, 14
+_fx/fx_heart_015
+	bounds: 1926, 384, 36, 14
+_fx/fx_heart_016
+	bounds: 1930, 346, 36, 14
+	rotate: 90
+_fx/fx_heart_017
+	bounds: 1946, 346, 36, 14
+	rotate: 90
+_fx/fx_heart_018
+	bounds: 1926, 227, 36, 14
+_fx/fx_heart_019
+	bounds: 1907, 211, 36, 14
+_fx/fx_heart_020
+	bounds: 1918, 173, 36, 14
+	rotate: 90
+_fx/fx_heart_021
+	bounds: 1918, 135, 36, 14
+	rotate: 90
+_fx/fx_heart_022
+	bounds: 1934, 173, 36, 14
+	rotate: 90
+_fx/fx_heart_023
+	bounds: 1934, 135, 36, 14
+	rotate: 90
+_fx/fx_heart_024
+	bounds: 1920, 97, 36, 14
+	rotate: 90
+_fx/fx_heart_025
+	bounds: 1936, 97, 36, 14
+	rotate: 90
+_fx/fx_heart_026
+	bounds: 1920, 81, 36, 14
+_fx/fx_heart_027
+	bounds: 1915, 65, 36, 14
+_fx/fx_heart_028
+	bounds: 1953, 43, 36, 14
+	rotate: 90
+_fx/fx_heart_029
+	bounds: 1916, 27, 36, 14
+	rotate: 90
+_fx/wink_fx_00
+	bounds: 1234, 2, 24, 32
+	offsets: 33, 26, 91, 83
+	rotate: 90
+_fx/wink_fx_01
+	bounds: 1301, 699, 39, 46
+	offsets: 25, 17, 91, 83
+	rotate: 90
+_fx/wink_fx_02
+	bounds: 484, 9, 42, 48
+	offsets: 24, 17, 91, 83
+	rotate: 90
+_fx/wink_fx_03
+	bounds: 363, 2, 49, 53
+	offsets: 21, 16, 91, 83
+	rotate: 90
+_fx/wink_fx_04
+	bounds: 1855, 403, 53, 57
+	offsets: 19, 14, 91, 83
+_fx/wink_fx_05
+	bounds: 1652, 151, 59, 64
+	offsets: 16, 11, 91, 83
+	rotate: 90
+_fx/wink_fx_06
+	bounds: 1642, 2, 62, 68
+	offsets: 15, 9, 91, 83
+	rotate: 90
+_fx/wink_fx_07
+	bounds: 1804, 48, 66, 69
+	offsets: 14, 9, 91, 83
+_fx/wink_fx_08
+	bounds: 1802, 196, 67, 73
+	offsets: 13, 7, 91, 83
+	rotate: 90
+_fx/wink_fx_09
+	bounds: 1802, 119, 66, 75
+	offsets: 17, 6, 91, 83
+_fx/wink_fx_10
+	bounds: 1820, 538, 64, 77
+	offsets: 19, 5, 91, 83
+_fx/wink_fx_11
+	bounds: 1712, 8, 54, 72
+	offsets: 31, 11, 91, 83
+	rotate: 90
+base_pose_arm_R_bns
+	bounds: 1718, 203, 82, 52
+base_pose_arm_R_flame_bit_bns
+	bounds: 1900, 2, 17, 16
+	rotate: 90
+base_pose_arm_R_flames_bns
+	bounds: 534, 9, 42, 46
+	rotate: 90
+base_pose_body_bns
+	bounds: 1706, 752, 128, 137
+base_pose_brows_L_bns
+	bounds: 1949, 1322, 25, 18
+	offsets: 1, 1, 27, 20
+	rotate: 90
+base_pose_brows_R_bns
+	bounds: 1001, 92, 25, 18
+	offsets: 2, 1, 28, 20
+	rotate: 90
+base_pose_curl_01_bns
+	bounds: 993, 401, 22, 21
+	rotate: 90
+base_pose_curl_02_bns
+	bounds: 1049, 2, 28, 24
+	rotate: 90
+base_pose_curl_03_bns
+	bounds: 1949, 1297, 23, 18
+	rotate: 90
+base_pose_curl_04_bns
+	bounds: 1610, 2, 19, 14
+base_pose_curl_05_bns
+	bounds: 1894, 470, 19, 16
+	rotate: 90
+base_pose_eyes_ew_L_bns
+	bounds: 1940, 564, 29, 27
+	rotate: 90
+base_pose_eyes_ew_R_bns
+	bounds: 1075, 2, 28, 24
+	rotate: 90
+base_pose_eyes_lid_L_Bot_bns
+	bounds: 1543, 740, 30, 17
+	rotate: 90
+base_pose_eyes_lid_R_Bot_bns
+	bounds: 1872, 52, 28, 17
+	rotate: 90
+base_pose_head_bns
+	bounds: 1642, 66, 83, 78
+	rotate: 90
+base_pose_head_bnsX
+	bounds: 1722, 118, 83, 78
+	rotate: 90
+base_pose_horn_Back_bns
+	bounds: 1855, 367, 52, 34
+base_pose_horn_Front_bns
+	bounds: 1505, 762, 69, 33
+	rotate: 90
+base_pose_jawB_bns
+	bounds: 1301, 858, 42, 22
+	rotate: 90
+base_pose_mouth_Back_bns
+	bounds: 1940, 595, 30, 27
+	rotate: 90
+base_pose_mouth_tongue_bns
+	bounds: 1301, 902, 52, 23
+	rotate: 90
+base_pose_mouth_uvula_bns
+	bounds: 1301, 837, 19, 19
+base_pose_nose_bns
+	bounds: 1940, 536, 27, 26
+base_pose_scarf_Back_bns
+	bounds: 1177, 28, 121, 123
+base_pose_scarf_Front_bns
+	bounds: 1479, 167, 119, 123
+	rotate: 90
+base_pose_teeth_Bot_Back_bns
+	bounds: 1301, 956, 40, 25
+	rotate: 90
+base_pose_teeth_Top_Back_bns
+	bounds: 1423, 721, 37, 17
+base_pose_teeth_Top_bns
+	bounds: 1001, 74, 18, 16
+base_pose_whisker_L_bns
+	bounds: 1945, 211, 17, 14
+base_pose_whisker_R_bns
+	bounds: 1238, 153, 26, 12
+bg_bodyb
+	bounds: 1301, 740, 202, 91
+	offsets: 0, 0, 223, 91
+bg_ehlL
+	bounds: 359, 389, 2, 2
+	offsets: 1, 1, 4, 4
+bg_ehlR
+	bounds: 1718, 199, 2, 2
+	offsets: 1, 1, 4, 4
+bg_fingsL
+	bounds: 1194, 2, 38, 24
+bg_fore
+	bounds: 1845, 2, 44, 53
+	rotate: 90
+bg_handR
+	bounds: 1877, 227, 31, 43
+	offsets: 1, 0, 32, 43
+bg_indR
+	bounds: 1562, 748, 22, 19
+	rotate: 90
+bg_lidT001L
+	bounds: 598, 2, 27, 21
+bg_lidT001R
+	bounds: 1101, 2, 28, 22
+	rotate: 90
+bg_lidT002L
+	bounds: 627, 2, 27, 21
+bg_lidT002R
+	bounds: 1125, 2, 28, 22
+	rotate: 90
+bg_lidT003L
+	bounds: 656, 2, 27, 21
+bg_lidT003R
+	bounds: 1877, 203, 28, 22
+bg_lidT004L
+	bounds: 1940, 512, 27, 22
+bg_lidT004R
+	bounds: 1891, 59, 28, 22
+	rotate: 90
+bg_palmL
+	bounds: 1874, 272, 45, 37
+	rotate: 90
+bg_pink
+	bounds: 1909, 374, 18, 14
+	rotate: 90
+bg_pupL
+	bounds: 1800, 891, 8, 8
+	offsets: 1, 1, 10, 10
+bg_pupR
+	bounds: 1642, 157, 8, 8
+	offsets: 1, 1, 10, 10
+bg_signV001
+	bounds: 1585, 434, 39, 27
+	offsets: 2, 1, 42, 30
+	rotate: 90
+bg_signV002
+	bounds: 1874, 319, 38, 46
+	offsets: 1, 1, 41, 49
+bg_signV003
+	bounds: 418, 11, 40, 64
+	offsets: 1, 2, 43, 68
+	rotate: 90
+bg_signV004
+	bounds: 1821, 462, 52, 74
+bg_signV005main
+	bounds: 1722, 64, 52, 80
+	offsets: 1, 1, 55, 82
+	rotate: 90
+bg_signV006
+	bounds: 1786, 2, 44, 57
+	offsets: 1, 2, 46, 60
+	rotate: 90
+bg_signV007
+	bounds: 1604, 167, 46, 43
+	offsets: 2, 1, 50, 45
+bg_signV008
+	bounds: 1001, 2, 46, 28
+	offsets: 1, 1, 48, 31
+bg_signV009
+	bounds: 1149, 2, 43, 24
+	offsets: 1, 1, 46, 26
+bg_thigh
+	bounds: 1886, 555, 52, 70
+bg_toe
+	bounds: 1875, 462, 17, 27
+bi_drag_seq_body/bi_drag_seq_body_00
+	bounds: 1328, 833, 216, 204
+	offsets: 227, 83, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_01
+	bounds: 1238, 167, 258, 239
+	offsets: 160, 104, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_02
+	bounds: 722, 401, 287, 269
+	offsets: 97, 139, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_03
+	bounds: 359, 393, 295, 361
+	offsets: 52, 157, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_04
+	bounds: 813, 699, 297, 486
+	offsets: 31, 154, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_05
+	bounds: 1328, 1039, 308, 478
+	offsets: 17, 159, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_06
+	bounds: 362, 1000, 347, 482
+	offsets: 0, 159, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_07
+	bounds: 846, 998, 349, 480
+	offsets: 0, 161, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_08
+	bounds: 2, 384, 355, 480
+	offsets: 15, 156, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_09
+	bounds: 2, 866, 358, 481
+	offsets: 22, 158, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_10
+	bounds: 362, 690, 308, 449
+	offsets: 33, 206, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_11
+	bounds: 2, 5, 377, 359
+	offsets: 44, 262, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_12
+	bounds: 363, 53, 233, 338
+	offsets: 50, 274, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_13
+	bounds: 598, 100, 245, 291
+	offsets: 58, 314, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_14
+	bounds: 1021, 153, 215, 270
+	offsets: 75, 323, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_15
+	bounds: 993, 425, 239, 272
+	offsets: 70, 322, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_16
+	bounds: 1234, 427, 228, 270
+	offsets: 60, 313, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_17
+	bounds: 845, 119, 174, 280
+	offsets: 107, 300, 554, 655
+bi_drag_seq_body/bi_drag_seq_body_18
+	bounds: 1447, 18, 147, 118
+	offsets: 136, 461, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_19
+	bounds: 1583, 628, 142, 120
+	offsets: 137, 461, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_20
+	bounds: 1464, 434, 150, 119
+	offsets: 137, 461, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_21
+	bounds: 1464, 586, 152, 117
+	offsets: 138, 461, 554, 655
+	rotate: 90
+bi_drag_seq_body/bi_drag_seq_body_22
+	bounds: 1546, 772, 158, 119
+	offsets: 137, 460, 554, 655
+bi_drag_seq_body/head/bi_drag_seq_body_13
+	bounds: 1619, 348, 95, 112
+	offsets: 366, 439, 554, 655
+bi_drag_seq_body/head/bi_drag_seq_body_14
+	bounds: 1850, 627, 102, 126
+	offsets: 369, 459, 554, 655
+bi_drag_seq_body/head/bi_drag_seq_body_15
+	bounds: 1808, 1036, 150, 145
+	offsets: 327, 484, 554, 655
+bi_drag_seq_body/head/bi_drag_seq_body_16
+	bounds: 1546, 893, 158, 144
+	offsets: 326, 481, 554, 655
+bi_drag_seq_body/head/bi_drag_seq_body_17
+	bounds: 1808, 1183, 164, 139
+	offsets: 324, 480, 554, 655
+	rotate: 90
+bi_drag_seq_body/head/bi_drag_seq_body_18
+	bounds: 1800, 901, 156, 133
+	offsets: 326, 487, 554, 655
+bi_drag_seq_body/head/bi_drag_seq_body_19
+	bounds: 1705, 617, 143, 133
+	offsets: 323, 487, 554, 655
+bi_drag_seq_body/head/bi_drag_seq_body_20
+	bounds: 1836, 755, 144, 131
+	offsets: 324, 488, 554, 655
+	rotate: 90
+bi_drag_seq_body/head/bi_drag_seq_body_21
+	bounds: 1300, 28, 145, 137
+	offsets: 323, 485, 554, 655
+bi_drag_seq_body/head/bi_drag_seq_body_22
+	bounds: 1479, 288, 144, 138
+	offsets: 324, 481, 554, 655
+	rotate: 90
+bi_drag_seq_hand/handsB/bi_drag_seq_hand14
+	bounds: 1718, 257, 91, 81
+	offsets: 136, 499, 554, 655
+	rotate: 90
+bi_drag_seq_hand/handsB/bi_drag_seq_hand15
+	bounds: 1021, 32, 154, 119
+	offsets: 302, 469, 554, 655
+bi_drag_seq_hand/handsB/bi_drag_seq_hand16
+	bounds: 845, 8, 154, 109
+	offsets: 292, 475, 554, 655
+bi_drag_seq_hand/handsB/bi_drag_seq_hand17
+	bounds: 1706, 891, 146, 92
+	offsets: 303, 486, 554, 655
+	rotate: 90
+bi_drag_seq_hand/handsB/bi_drag_seq_hand18
+	bounds: 1585, 475, 151, 80
+	offsets: 302, 492, 554, 655
+	rotate: 90
+bi_drag_seq_hand/handsB/bi_drag_seq_hand19
+	bounds: 598, 25, 152, 73
+	offsets: 302, 492, 554, 655
+bi_drag_seq_hand/handsB/bi_drag_seq_hand20
+	bounds: 1667, 536, 151, 79
+	offsets: 306, 491, 554, 655
+bi_drag_seq_hand/handsB/bi_drag_seq_hand21
+	bounds: 1667, 462, 152, 72
+	offsets: 306, 496, 554, 655
+bi_drag_seq_hand/handsB/bi_drag_seq_hand22
+	bounds: 1567, 18, 147, 73
+	offsets: 300, 492, 554, 655
+	rotate: 90
+cp_glasses_bns
+	bounds: 1349, 712, 72, 26
+ghoL_bns
+	bounds: 1266, 153, 12, 21
+	rotate: 90
+hand_win3_018
+	bounds: 1796, 360, 100, 57
+	offsets: 1, 1, 110, 119
+	rotate: 90
+hand_win3_019
+	bounds: 1619, 276, 97, 70
+	offsets: 8, 16, 110, 119
+hand_win3_020
+	bounds: 1801, 265, 71, 93
+	offsets: 32, 12, 110, 119
+hand_win3_021
+	bounds: 1604, 212, 62, 112
+	offsets: 45, 7, 110, 119
+	rotate: 90
+hand_win3_022
+	bounds: 752, 4, 91, 94
+	offsets: 19, 7, 110, 119
+hand_win3_023
+	bounds: 1716, 350, 110, 78
+	offsets: 0, 0, 110, 119
+	rotate: 90
+indL_bns
+	bounds: 685, 2, 14, 21
+pinL_bns
+	bounds: 1954, 736, 13, 17

@@ -1,0 +1,175 @@
+
+    .paytable_special_symbols {
+        background-image: url(1.png);
+        background-position: -1px -1px;
+        background-repeat: no-repeat;
+        background-size: 156px 151px;
+        display: inline-block;
+        height: 149px;
+        min-height: 149px;
+        min-width: 154px;
+        overflow: hidden;
+        width: 154px
+    }
+
+    .paytable_symbols {
+        background-image: url(2.png);
+        background-repeat: no-repeat;
+        background-size: 251px 395px;
+        display: inline-block;
+        overflow: hidden
+    }
+
+    .paytable_symbols.h_angbao {
+        background-position: -1px -268px;
+        height: 126px;
+        min-height: 126px;
+        min-width: 129px;
+        width: 129px
+    }
+
+    .paytable_symbols.h_coins {
+        background-position: -132px -268px;
+        height: 108px;
+        min-height: 108px;
+        min-width: 118px;
+        width: 118px
+    }
+
+    .paytable_symbols.h_green {
+        background-position: -141px -1px;
+        height: 128px;
+        min-height: 128px;
+        min-width: 103px;
+        width: 103px
+    }
+
+    .paytable_symbols.h_ingot {
+        background-position: -1px -140px;
+        height: 126px;
+        min-height: 126px;
+        min-width: 134px;
+        width: 134px
+    }
+
+    .paytable_symbols.h_lantern {
+        background-position: -1px -1px;
+        height: 137px;
+        min-height: 137px;
+        min-width: 138px;
+        width: 138px
+    }
+
+    .paytable_symbols.h_ribbon {
+        background-position: -141px -131px;
+        height: 119px;
+        min-height: 119px;
+        min-width: 102px;
+        width: 102px
+    }
+
+    .paytable_paylines {
+        background-image: url(6.png);
+        background-repeat: no-repeat;
+        background-size: 160px 29px;
+        display: inline-block;
+        overflow: hidden
+    }
+
+    .paytable_paylines.pl1 {
+        background-position: -1px -1px;
+        height: 27px;
+        min-height: 27px;
+        min-width: 30px;
+        width: 30px
+    }
+
+    .paytable_paylines.pl2 {
+        background-position: -33px -1px;
+        height: 27px;
+        min-height: 27px;
+        min-width: 30px;
+        width: 30px
+    }
+
+    .paytable_paylines.pl3 {
+        background-position: -65px -1px;
+        height: 27px;
+        min-height: 27px;
+        min-width: 30px;
+        width: 30px
+    }
+
+    .paytable_paylines.pl4 {
+        background-position: -97px -1px;
+        height: 27px;
+        min-height: 27px;
+        min-width: 30px;
+        width: 30px
+    }
+
+    .paytable_paylines.pl5 {
+        background-position: -129px -1px;
+        height: 27px;
+        min-height: 27px;
+        min-width: 30px;
+        width: 30px
+    }
+
+    .paytable_mtp_reel {
+        background-image: url(3.png);
+        background-position: -1px -1px;
+        background-repeat: no-repeat;
+        background-size: 571px 258px;
+        display: inline-block;
+        height: 256px;
+        min-height: 256px;
+        min-width: 569px;
+        overflow: hidden;
+        width: 569px
+    }
+
+    .paytable_mtp_bns {
+        background-image: url(4.png);
+        background-position: -1px -1px;
+        background-repeat: no-repeat;
+        background-size: 576px 394px;
+        display: inline-block;
+        height: 392px;
+        min-height: 392px;
+        min-width: 574px;
+        overflow: hidden;
+        width: 574px
+    }
+
+    .paytable_sw {
+        background-image: url(5.png);
+        background-position: -1px -1px;
+        background-repeat: no-repeat;
+        background-size: 240px 346px;
+        display: inline-block;
+        height: 344px;
+        min-height: 344px;
+        min-width: 238px;
+        overflow: hidden;
+        width: 238px
+    }
+	
+	div.scroller::-webkit-scrollbar {
+  width: 8px;
+}
+
+div.scroller::-webkit-scrollbar-track {
+  border-radius: 50px;
+  background-color : #30303c;
+}
+
+div.scroller::-webkit-scrollbar-thumb {
+    background-color : #757575b3;
+    border-radius: 50px;
+    visibility: hidden;
+}
+
+div.scroller:hover::-webkit-scrollbar-thumb {
+    visibility: visible;
+}

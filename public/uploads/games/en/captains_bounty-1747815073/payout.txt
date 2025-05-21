@@ -1,0 +1,287 @@
+.payline_packed {
+    background-image: url(4.png);
+    background-repeat: no-repeat;
+    background-size: 1560px 50px;
+    display: inline-block;
+    overflow: hidden
+}
+
+.payline_packed.01 {
+    background-position: -1px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.02 {
+    background-position: -79px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.03 {
+    background-position: -157px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.04 {
+    background-position: -235px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.05 {
+    background-position: -313px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.06 {
+    background-position: -391px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.07 {
+    background-position: -469px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.08 {
+    background-position: -547px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.09 {
+    background-position: -625px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.10 {
+    background-position: -703px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.11 {
+    background-position: -781px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.12 {
+    background-position: -859px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.13 {
+    background-position: -937px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.14 {
+    background-position: -1015px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.15 {
+    background-position: -1093px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.16 {
+    background-position: -1171px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.17 {
+    background-position: -1249px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.18 {
+    background-position: -1327px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.19 {
+    background-position: -1405px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.payline_packed.20 {
+    background-position: -1483px -1px;
+    height: 48px;
+    min-height: 48px;
+    min-width: 76px;
+    width: 76px
+}
+
+.symbol_lang {
+    background-image: url(1.png);
+    background-repeat: no-repeat;
+    background-size: 292px 146px;
+    display: inline-block;
+    overflow: hidden
+}
+
+.symbol_lang.scatter {
+    background-position: -1px -1px;
+    height: 144px;
+    min-height: 144px;
+    min-width: 144px;
+    width: 144px
+}
+
+.symbol_lang.wild {
+    background-position: -147px -1px;
+    height: 144px;
+    min-height: 144px;
+    min-width: 144px;
+    width: 144px
+}
+
+.symbol_packed {
+    background-image: url(2.png);
+    background-repeat: no-repeat;
+    background-size: 438px 438px;
+    display: inline-block;
+    overflow: hidden
+}
+
+.symbol_packed.h_bottle {
+    background-position: -1px -1px;
+    height: 144px;
+    min-height: 144px;
+    min-width: 144px;
+    width: 144px
+}
+
+.symbol_packed.h_compass {
+    background-position: -1px -147px;
+    height: 144px;
+    min-height: 144px;
+    min-width: 144px;
+    width: 144px
+}
+
+.symbol_packed.h_hook {
+    background-position: -1px -293px;
+    height: 144px;
+    min-height: 144px;
+    min-width: 144px;
+    width: 144px
+}
+
+.symbol_packed.h_pirate {
+    background-position: -147px -1px;
+    height: 144px;
+    min-height: 144px;
+    min-width: 144px;
+    width: 144px
+}
+
+.symbol_packed.l_a {
+    background-position: -293px -1px;
+    height: 144px;
+    min-height: 144px;
+    min-width: 144px;
+    width: 144px
+}
+
+.symbol_packed.l_j {
+    background-position: -147px -147px;
+    height: 144px;
+    min-height: 144px;
+    min-width: 144px;
+    width: 144px
+}
+
+.symbol_packed.l_k {
+    background-position: -147px -293px;
+    height: 144px;
+    min-height: 144px;
+    min-width: 144px;
+    width: 144px
+}
+
+.symbol_packed.l_q {
+    background-position: -293px -147px;
+    height: 144px;
+    min-height: 144px;
+    min-width: 144px;
+    width: 144px
+}
+
+.general_packed {
+    background-image: url(3.png);
+    background-repeat: no-repeat;
+    background-size: 602px 820px;
+    display: inline-block;
+    overflow: hidden
+}
+
+.general_packed.feature_freespins {
+    background-position: -1px -1px;
+    height: 436px;
+    min-height: 436px;
+    min-width: 600px;
+    width: 600px
+}
+
+.general_packed.feature_multiplier {
+    background-position: -1px -439px;
+    height: 380px;
+    min-height: 380px;
+    min-width: 600px;
+    width: 600px
+}

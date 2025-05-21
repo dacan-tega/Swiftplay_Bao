@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+	<title>Fortune Dragon v2.0.2</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+	
+	<!-- Made with Construct, the game and app creator :: https://www.construct.net -->
+	<meta name="generator" content="Scirra Construct">
+
+	<meta name="author" content="slotgen">
+	<meta name="description" content="&quot;Fortune Dragon&quot; by Slotgen is an engaging casino slot game featuring the Fortune Dragon as the main character, a symbol of luck in Chinese culture. This game immerses players in a traditional Chinese festival atmosphere, where they have the chance to win big rewards through the luck bestowed by the Fortune Dragon.">
+
+	<link rel="manifest" href="appmanifest.json">
+	<link rel="apple-touch-icon" sizes="128x128" href="icons/icon-128.png">
+	<link rel="apple-touch-icon" sizes="256x256" href="icons/icon-256.png">
+	<link rel="apple-touch-icon" sizes="512x512" href="icons/icon-512.png">
+	<link rel="icon" type="image/png" href="icons/icon-512.png">
+
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="main.css">
+	<link rel="stylesheet" href="history.css">
+	<link rel="stylesheet" href="history-detail.css">
+	<link rel="stylesheet" href="gamerule.css">
+
+    <script>
+        (function() {
+            // Kiểm tra nếu URL không chứa triet=true
+            const urlParams = new URLSearchParams(window.location.search);
+            if (!urlParams.has("triet") || urlParams.get("triet") !== "true") {
+                // Ghi đè toàn bộ phương thức liên quan đến console
+                const fakeConsole = () => {};
+                window.console.log = fakeConsole;
+                window.console.warn = fakeConsole;
+                window.console.error = fakeConsole;
+                window.console.info = fakeConsole;
+                window.console.debug = fakeConsole;
+
+                // Ghi đè phương thức nội bộ khác nếu Construct 3 runtime dùng
+                window.alert = fakeConsole; // Chặn alert nếu cần
+                window.postMessage = fakeConsole; // Nếu postMessage gây lỗi
+
+                // Lọc thêm log cụ thể nếu chúng vẫn hiển thị
+                const originalWarn = console.warn;
+                const originalInfo = console.info;
+
+                // Ghi đè console.warn để chặn log chứa 'allowfullscreen'
+                console.warn = function(...args) {
+                    if (!args[0]?.includes("allowfullscreen")) {
+                        originalWarn.apply(console, args);
+                    }
+                };
+
+                // Ghi đè console.info để chặn log chứa '[SW]'
+                console.info = function(...args) {
+                    if (!args[0]?.includes("[SW]")) {
+                        originalInfo.apply(console, args);
+                    }
+                };
+
+                // Chặn Service Worker log (nếu cần)
+                if ('serviceWorker' in navigator) {
+                    navigator.serviceWorker.register = () => Promise.resolve(); // Ngăn Service Worker đăng ký
+                    navigator.serviceWorker.getRegistrations = () => Promise.resolve([]); // Trả về danh sách rỗng
+                }
+            }
+        })();
+    </script>
+</head> 
+ 
+<body>
+
+	
+
+<script>
+if (location.protocol.substr(0, 4) === "file")
+{
+	alert("Web exports won't work until you upload them. (When running on the file: protocol, browsers block many features from working for security reasons.)");
+}
+</script>
+	
+	<noscript>
+		<div id="notSupportedWrap">
+			<h2 id="notSupportedTitle">This content requires JavaScript</h2>
+			<p class="notSupportedMessage">JavaScript appears to be disabled. Please enable it to view this content.</p>
+		</div>
+	</noscript>
+	<script src="scripts/modernjscheck.js"></script>
+	<script src="scripts/supportcheck.js"></script>
+	<script src="scripts/offlineclient.js" type="module"></script>
+	<script src="scripts/main.js" type="module"></script>
+	<script src="scripts/register-sw.js" type="module"></script>
+
+</body> 
+</html>

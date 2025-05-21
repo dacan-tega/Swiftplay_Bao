@@ -1,0 +1,280 @@
+<div id="game-shell" class="game-shell"
+    style="font-family: PingFang SC, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;">
+    <div id="game-overlay">
+        <div id="game-history-container"
+            style="overflow: hidden; visibility: visible; height: 640px; width: 360px; transform: scale(1); position: relative; z-index: 0;">
+            <div id="container-view" style="overflow: hidden;">
+                <div style="top: 0%; left: 0px; position: absolute; width: inherit; height: inherit;">
+                    <div id="game-list-view" class="game-list-view-container"
+                        style="background-color: rgb(48, 48, 59);">
+                        <div id="game-list-view-wrapper" style="flex-direction: column;">
+
+                            <div
+                                style="left: 0%; top: 0px; position: absolute; width: inherit; height: inherit; z-index: 0;">
+                                <div id="game-details-view-container"
+                                    style="background-color: rgb(48, 48, 59); color: rgba(255, 255, 255, 0.6); overflow: hidden; -webkit-font-smoothing: antialiased;">
+                                    <div id="game-detail-view-navbar-container" class=""
+                                        style="height: 62px; padding-top: 0px; background-color: rgb(36, 36, 46);">
+                                        <div style="position: absolute; z-index: 4; height: inherit; width: inherit;">
+                                            <div id="game-list-nav" style="background-color: rgb(36, 36, 46);">
+                                                <div id="game-list-nav-bar" class="game-list-nav-bar-vertical"
+                                                    style="height: calc(100% - 2px);">
+                                                    <div
+                                                        class="game-list-nav-image-container game-list-nav-image-container-slot">
+                                                        <div id="game-list-nav-image-left" class="game-list-nav-image "
+                                                            style="transform: scale(0.7);">
+                                                            <div class="gh-arrow "
+                                                                style="transform: translate(0px, 0px); background-color: rgb(255, 196, 36);">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div id="game-list-nav-label-container"
+                                                        class="game-list-nav-label-container-vertical ">
+                                                        <div class="game-list-nav-row-container ">
+                                                            <div id="game-free-spin-nav-label-wrapper"
+                                                                style="width: 84px;">
+                                                                <div id="game-free-spin-nav-label" class="title-top"
+                                                                    style="color: rgb(255, 196, 36);">{LOG_TITLE}</div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="game-list-nav-subtitle-label"
+                                                            style="color: rgba(255, 255, 255, 0.4);" class="date-time">{Date} {Time}
+                                                            ({GMT})</div>
+                                                    </div>
+                                                    <div
+                                                        class="game-list-nav-image-container game-list-nav-image-container-slot">
+                                                        <div id="game-list-nav-image-right" class="game-list-nav-image"
+                                                            style="display: none;">
+                                                            <div class="exit-icon vertical">
+                                                                <div class="exit-icon-stroke exit-icon-stroke-one exit-icon-stroke-vertical"
+                                                                    style="background-color: rgba(255, 255, 255, 0.6);">
+                                                                </div>
+                                                                <div class="exit-icon-stroke exit-icon-stroke-two exit-icon-stroke-vertical"
+                                                                    style="background-color: rgba(255, 255, 255, 0.6);">
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="game-list-nav-separator-vertical-slot"
+                                                    style="background-color: rgb(48, 48, 60);"></div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="game-detail-spring-wrapper"
+                                        style="position: absolute; height: 578px; transform: translate3d(0px, 0px, 0px);">
+                                        <div id="game-details-page-container" style="height: 578px;">
+                                            <div id="game-pages-window" style="position: relative;">
+                                                <!---START_SLIDE_ITEM---->
+                                                <div class="game-list-page"
+                                                    style="width: 100%; height: 578px; position: absolute; left: 0px; left: {LEFT};">
+                                                    <div class="reset">
+													<!---START_TRANS_ITEM---->
+                                                        <div id="transaction-details-container"
+                                                            style="display: flex; width: inherit; height: 50px; margin: 0px auto; justify-content: center; align-items: center; background-color: rgb(36, 36, 46);">
+                                                            <div class="transaction-detail-item"
+                                                                style="display: flex; flex-direction: column; align-items: center; width: 27%;">
+                                                                <div id="detail-item-holder"
+                                                                    style="height: 23px; display: flex; justify-content: center; align-items: center;">
+                                                                    <div id="Transaction-item-value"
+                                                                        style="text-align: center; display: inline-table; color: rgba(255, 255, 255, 0.6); font-size: 9px; line-height: 12px;">
+                                                                        {Transaction}</div>
+                                                                </div>
+                                                                <div id="Transaction-item-key"
+                                                                    style="text-align: center; font-size: 11px; color: rgb(255, 196, 36);">
+                                                                    {Transaction_Title}</div>
+                                                            </div>
+                                                            <div class="transaction-detail-item"
+                                                                style="display: flex; flex-direction: column; align-items: center; width: 18%; margin-left: 10px;">
+                                                                <div id="detail-item-holder"
+                                                                    style="height: 23px; display: flex; justify-content: center; align-items: center;">
+                                                                    <div id="Bet(Rp)-item-value"
+                                                                        style="text-align: center; display: inline-table; color: rgba(255, 255, 255, 0.6); font-size: 9px; line-height: 12px;">
+                                                                        {TotalBet}</div>
+                                                                </div>
+                                                                <div id="Bet(Rp)-item-key"
+                                                                    style="text-align: center; font-size: 11px; color: rgb(255, 196, 36);">
+                                                                    {Bet_Title}({CurrencyPrefix})</div>
+                                                            </div>
+                                                            <div class="transaction-detail-item"
+                                                                style="display: flex; flex-direction: column; align-items: center; width: 20%; margin-left: 10px;">
+                                                                <div id="detail-item-holder"
+                                                                    style="height: 23px; display: flex; justify-content: center; align-items: center;">
+                                                                    <div id="Profit(Rp)-item-value"
+                                                                        style="text-align: center; display: inline-table; color: rgba(255, 255, 255, 0.6); font-size: 9px; line-height: 12px;">
+                                                                        {Profit}</div>
+                                                                </div>
+                                                                <div id="Profit(Rp)-item-key"
+                                                                    style="text-align: center; font-size: 11px; color: rgb(255, 196, 36);">
+                                                                    {Profit_Title}({CurrencyPrefix})</div>
+                                                            </div>
+                                                            <div class="transaction-detail-item"
+                                                                style="display: flex; flex-direction: column; align-items: center; width: 27%; margin-left: 10px;">
+                                                                <div id="detail-item-holder"
+                                                                    style="height: 23px; display: flex; justify-content: center; align-items: center;">
+                                                                    <div id="Balance(Rp)-item-value"
+                                                                        style="text-align: center; display: inline-table; color: rgba(255, 255, 255, 0.6); font-size: 9px; line-height: 12px;">
+                                                                        {Balance}</div>
+                                                                </div>
+                                                                <div id="Balance(Rp)-item-key"
+                                                                    style="text-align: center; font-size: 11px; color: rgb(255, 196, 36);">
+                                                                    {Balance_Title}({CurrencyPrefix})</div>
+                                                            </div>
+                                                        </div>
+														<!---END_TRANS_ITEM---->
+                                                        <div class="history regular"
+                                                            style="width: inherit; height: 528px;">
+                                                            <div class="rcs-custom-scroll " style="height: inherit;">
+                                                                <div class="rcs-outer-container" style="height: 100%;">
+                                                                    <div class="rcs-inner-container scroller"
+                                                                        style="height: 100%; margin-right: -17px;">
+                                                                        <div class="scroller"
+                                                                            style="height: 100%; overflow-y: visible; margin-right: 0px;">
+                                                                            <div id="bet-details-container"
+                                                                                style="display: flex; flex-direction: column;">
+																				<!---START_BET_INFO---->
+                                                                                <div id="bet-information-container"
+                                                                                    style="display: flex; width: inherit; height: 50px; margin: 0px auto 5px; justify-content: center; align-items: center; padding-left: 10px; padding-right: 10px;">
+                                                                                    <div id="bet-size-label"
+                                                                                        style="font-size: 11px; text-align: center; word-break: break-word; color: rgba(255, 255, 255, 0.4);">
+                                                                                        {Bet__Size_Title} {SIZE}</div>
+                                                                                    <div id="separator"
+                                                                                        style="width: 2px; height: 12px; margin-left: 10px; margin-right: 10px; background-color: rgb(40, 40, 51);">
+                                                                                    </div>
+                                                                                    <div id="bet-level-label"
+                                                                                        style="font-size: 11px; text-align: center; word-break: break-word; color: rgba(255, 255, 255, 0.4);">
+                                                                                        {Bet_Level_Title} {LEVEL}</div>
+                                                                                </div>
+																				<!---END_BET_INFO---->
+
+                                                                                <!---START__MULTI_TOP---->
+                                                                                
+                                                                                    <!---END__MULTI_TOP---->
+
+                                                                                    <!---START__MULTI_TOP_WIN---->
+                                                                                    <div class="mul_x2 history_assets" style="-xx3-flex: 0 0 auto; object-fit: cover; margin-top: 0px;-x3-"></div>
+                                                                                    <!---END__MULTI_TOP_WIN---->
+
+                                                                                    <!---START__MULTI_TOP_NORMAL---->
+                                                                                    <div class="mul_x5 history_assets" style="-xx4-flex: 0 0 auto; object-fit: cover; margin-top: 20px;-x4-"></div>
+                                                                                    <!---END__MULTI_TOP_NORMAL---->
+
+                                                                                <div id="background-container"
+                                                                                    style="top : 38px;display: flex; position: relative; height: 300px;width: 300px; margin: auto auto 10px; flex-direction: column;">
+                                                                                    <div id="reel_background"
+                                                                                        style="display: flex; position: relative; height: 300px;width: 300px; margin: auto auto 10px; flex-direction: column;">
+                                                                                        <div id="background-item"
+                                                                                            style="">
+                                                                                            <span
+                                                                                                class="history_assets {BG_REEL}"
+                                                                                                style="transform-origin: left top;position: absolute;transform: scale(0.7, 0.63);left: 18%;top: -153%;"></span>
+                                                                                        </div>
+																						
+                                                                                    </div>
+																					
+																				<!---START__SHOW_MULTI---->
+																					{TOTALMULTI}
+																				<!---END__SHOW_MULTI---->
+                                                                                    
+																					<div id="symbols-container"
+                                                                                        style="position: relative; min-width: 38.25px; width: 38.25px; height: inherit; display: flex; flex-direction: row; margin-top: auto; margin-bottom: auto;margin-left: 33px;">																						
+                                                                                        <!---START_TEMPLATE_BODY---->
+																						
+                                                                                        {SLOTCOLUMN}
+																						
+																						<!---START__SYMBOL_NORMAL---->
+																						<span class="Symbol_4_1 symbol_atlas"
+    style="-xx2-display: block; position: absolute; transform-origin: left top; transform: scale(0.5) translate(5px, 0px);-x2-"></span>
+																						<!---END__SYMBOL_NORMAL---->
+																						
+																						<!---START__SYMBOL_WIN---->
+																						<span class="Symbol_3_1 symbol_atlas"
+    style="-xx1-display: block; position: absolute; transform-origin: left top; transform: scale(0.5) translate(5px, 0px);-x1-"></span>
+																						<!---END__SYMBOL_WIN---->
+																						
+																						<!---START__BG_SYMBOL_WIN---->
+																						<span class="glow ui_atlas" style="display: flex; position: relative; height: 300px;width: 300px; margin: auto auto 10px; flex-direction: column; margin-top: -6.3px; margin-left: -4.5px;"></span>   
+																						<!---END__BG_SYMBOL_WIN---->
+																						
+																						<!---START__CHANGE_CSS_SLOT_ITEM_COLUMN---->
+																						<div id="slot-item-column" style="height: 248px;"
+        >
+																						<!---END__CHANGE_CSS_SLOT_ITEM_COLUMN---->
+																						
+																						<!---START__CHANGE_CSS_SLOT_ITEM---->
+																						<div id="slot-item" style="width: 58.2px; height: 51px;">
+																						<!---END__CHANGE_CSS_SLOT_ITEM---->
+																						
+                                                                                        <!---END_SAMBLE_BLOCK---->
+                                                                                    </div>
+                                                                                </div>
+                                                                                <!---START__MULTI_BOT---->
+                                                                                <!---END__MULTI_BOT---->
+																				
+																				<!---START__MULTI_BOT_NORMAL---->
+																				<!---END__MULTI_bOT_NORMAL---->
+																				<!---START_PROGRESS_BAR---->
+																				
+																				<!---END_PROGRESS_BAR---->	
+                                                                                <div id="payout-title-container"
+                                                                                    style="display: flex; width: inherit; height: 32px; justify-content: center; align-items: center; margin: 0px auto;">
+                                                                                    <div class="line"
+                                                                                        style="width: 120px; background-color: rgb(40, 40, 51); height: 2px;">
+                                                                                    </div>
+                                                                                    <div id="payout-text"
+                                                                                        style="text-align: center; width: 72px; font-size: 11px; color: rgb(156, 155, 155);">
+                                                                                        {Payout_Title}</div>
+                                                                                    <div class="line"
+                                                                                        style="width: 120px; background-color: rgb(40, 40, 51); height: 2px;">
+                                                                                    </div>
+                                                                                </div>
+                                                                                <div
+                                                                                    style="display: flex; position: relative; flex-direction: column; justify-content: space-between; align-items: center; width: 300px; margin: auto;">
+                                                                                    <!---START_PAYOUT_INFO---->
+																					<div
+    style="display: flex; position: relative; flex-direction: column; justify-content: space-between; align-items: center; width: 300px; margin: auto;">
+                                                                                    {PAYOUT}
+																					</div>
+                                                                                    <!---END_PAYOUT_INFO---->
+																					<!---START__SPECIAL__PAYOUT---->
+																					
+																					<!---END__SPECIAL__PAYOUT---->
+                                                                                </div>
+
+                                                                            </div>
+                                                                            <div id="game-detail-padding"
+                                                                                style="width: inherit; height: 86px;">
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <!---END_SLIDE_ITEM---->
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div id="game-details-left-arrow">
+                                        <div class="gh-angle-wrapper" style="transform: translateX(4px) scale(0.7);">
+                                            <div class="gh-angle-horizontal angle-left"
+                                                style="border-color: rgb(247, 186, 101);"></div>
+                                        </div>
+                                    </div>
+                                    <div id="game-details-right-arrow">
+                                        <div class="gh-angle-wrapper" style="transform: translateX(-4px) scale(0.7);">
+                                            <div class="gh-angle-horizontal angle-right"
+                                                style="border-color: rgb(247, 186, 101);"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

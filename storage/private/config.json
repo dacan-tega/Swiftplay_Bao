@@ -1,0 +1,14 @@
+{
+    "agent": [
+        {
+            "api": "https:\/\/gateofolympus1000.slotgen.com\/api\/seamless\/wallet",
+            "token": "botiqjk123",
+            "currency": "IDR"
+        },
+        {
+            "api": "asd",
+            "token": "hqlmO3B15i",
+            "currency": "THB"
+        }
+    ]
+}
